@@ -1,7 +1,3 @@
-# KipJ's OS
-
-This is a rough OS coded by me, I will make it step by step.
-
 ## Test for code
 
 print **c** code
